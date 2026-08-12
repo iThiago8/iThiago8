@@ -68,5 +68,5 @@ Estagiário de TI *(2023 – 2024)*
 ## Contato
 
 * Email: **[thiago.pedro.padilha@gmail.com](mailto:thiago.pedro.padilha@gmail.com)**
-* LinkedIn: https://www.linkedin.com/in/thiago-pedro-padilha-629387259/
+* LinkedIn: https://www.linkedin.com/in/thiago-pedro-padilha/
 * GitHub: https://github.com/iThiago8
