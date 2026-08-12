@@ -2,7 +2,7 @@
 
 Automation & Data-focused Developer, atuando com **automação de processos (RPA)**, **integração de sistemas** e **pipelines de dados** utilizando **Python**.
 
-Atualmente trabalho como **Analista de TI no Sicoob Vale do Vinho**, desenvolvendo automações em ambiente produtivo, com foco em eficiência operacional, coleta de dados e integração entre sistemas.
+Atualmente trabalho como **Desenvolvedor RPA no Sicoob Vale do Vinho**, desenvolvendo automações em ambiente produtivo, com foco em eficiência operacional, coleta de dados e integração entre sistemas.
 
 ---
 
@@ -19,7 +19,6 @@ Atuar como **Automation Engineer / Python Developer**, desenvolvendo soluções 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-Automation-6A5ACD?style=flat)
 ![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-2F80ED?style=flat)
-![Prefect](https://img.shields.io/badge/Prefect-Orchestration-0A0A0A?style=flat)
 
 ### Web Automation & Scraping
 
